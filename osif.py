@@ -70,7 +70,7 @@ def baliho():
 def show_program():
 
 	print '''
-                    %sINFORMATION%s
+                    %INFORMATION%
  ------------------------------------------------------
 
     Author     Kunyim  'termux.id'
